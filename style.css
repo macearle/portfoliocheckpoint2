@@ -1,0 +1,18 @@
+body{
+	margin:1%;
+	padding:1%;
+	font-size:150%;
+}
+
+/*Make the h1 heading bigger with a bold font*/
+h1{
+	font-size: 2em; 
+	font-weight: bold;
+}
+
+
+.active{
+	background: white;
+    text-transform: uppercase;
+	text-align: left;
+}
